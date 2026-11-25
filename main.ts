@@ -4,7 +4,7 @@
 //   slug: news-image-20261124
 //
 // The entry image lives in this repository as entry.png, drawn by
-// make_image.py from the day's verified headlines:
+// make_image_v3.py (v3 poster redesign; make_image.py is the v2 original) from the day's verified headlines:
 //   - Ukraine sinks Russian warship off Libya (Benghazi, naval drones)
 //   - Nvidia reinstates Jensen Huang as CEO; shares +31%, markets rally
 //   - Three tankers hit mines in the Strait of Hormuz (Iran)
